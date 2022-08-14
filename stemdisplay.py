@@ -1,17 +1,32 @@
+feed_data = input("Input the values of data you want to stem-display (seperate with single spacing):\n\n")
+feed_data = feed_data.split()
+fed_data = []
+for hin in feed_data:
+	hin = int(hin)
+	fed_data.append(hin)
+
 def unitdetect(x):
-	
+	'''
+	This function check to determine the place value of the
+	given number data. This will allow us to work faster as 
+	we go deeper in our main program.
+	'''
 	if (x/10) > 0 and (x/10) < 1:
 		stem = 0
 		leaf = x
 	elif (x/10) < 10:
 		stem, leaf = x//10, x%10
 	else:
-		return None
+		fed_data.remove(x)
+		
 	
 	return stem, leaf
 
-
-def stemdisplay(*data_list):
+def stemdisplay(data_list):
+	'''
+	Create a dictionary. Loop through your data list; fill in your
+	dictionary and sort. Showcase the output.
+	'''
 	dictlist = dict()
 	for number in data_list:
 		val = unitdetect(number)
@@ -21,8 +36,10 @@ def stemdisplay(*data_list):
 			dictlist[val[0]].append(val[1])
 			dictlist[val[0]].sort()
 		
-	print ("Stem	  Leaf\n")			
+	print ("\nStem	  Leaf")			
 	for k, v in dictlist.items():
 		print (f"{k}	  {v}")
+		
+	
+stemdisplay(fed_data)
 
-stemdisplay(23, 56, 23, 73, 12, 9, 4, 40)
