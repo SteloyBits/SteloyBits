@@ -35,10 +35,12 @@ def stemdisplay(data_list):
 		else:
 			dictlist[val[0]].append(val[1])
 			dictlist[val[0]].sort()
+		y = list(dictlist.keys())
+		y.sort()
 		
 	print ("\nStem	  Leaf")			
-	for k, v in dictlist.items():
-		print (f"{k}	  {v}")
+	for g in y:
+		print (f"{g}	  {dictlist[g]}")
 		
 	
 stemdisplay(fed_data)
