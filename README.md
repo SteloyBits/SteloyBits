@@ -1,5 +1,5 @@
 <h1>Data Scientist</h1>
-    <p>Experienced data scientist with a strong background in Python, R, Excel, and Tableau. Proficient in network security and implementation of machine learning algorithms. Accomplished in using data to drive business decisions and collaborating with cross-functional teams to deliver actionable insights. Seeking a challenging role to utilize technical and analytical skills to develop innovative solutions.</p>
+    <p>Experienced <em>Data Scientist</em> with a strong background in Python, R, Excel, and Tableau. Proficient in <em>Network Security</em> and implementation of machine learning algorithms and core concepts. Accomplished in using data to drive business decisions and collaborating with cross-functional teams to deliver actionable insights. Seeking a challenging role to utilize technical and analytical skills to develop innovative solutions.</p>
     <h2>Skills</h2>
     <ul>
       <li>Programming Languages: Python, R</li>
@@ -10,7 +10,7 @@
       <li>Collaboration: Ability to work with cross-functional teams to drive business decisions</li>
     </ul>
     <h2>Projects</h2>
-    <ul> Projets can be found in <strong>My Github Repositories</strong> </ul>
+    <ul> Projets can be found in <a href="https://github.com/SteloyBits?tab=repositories"> <strong>My Github Repositories</strong></a></ul>
     <h2>Contact</h2>
     <ul>
       <li>Email: <a href="mailto:steloybits@vivaldi.net">steloybit's mail</a></li>
