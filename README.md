@@ -7,10 +7,11 @@
       <li>Frontend Web Development: HTML, CSS, JavaScript</li>
       <li>Network Security: Familiarity with security protocols and tools</li>
       <li>Machine Learning: Experience in implementing algorithms for classification, regression, and clustering</li>
+    <li>Database: MySQL and Postgresql </li>
       <li>Collaboration: Ability to work with cross-functional teams to drive business decisions</li>
     </ul>
     <h2>Projects</h2>
-    <ul> Projets can be found in <a href="https://github.com/SteloyBits?tab=repositories"> <strong>My Github Repositories</strong></a></ul>
+    <ul> Projects can be found in <a href="https://github.com/SteloyBits?tab=repositories"> <em>here</em></a></ul>
     <h2>Contact</h2>
     <ul>
       <li>Email: <a href="mailto:steloybits@vivaldi.net">steloybit's mail</a></li>
