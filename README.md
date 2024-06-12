@@ -10,11 +10,13 @@
     <li>Database: MySQL and Postgresql </li>
       <li>Collaboration: Ability to work with cross-functional teams to drive business decisions</li>
     </ul>
-<!---
-SteloyBits/SteloyBits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<h2>Projects</h2>
+    <ul> Projects can be found in <a href="https://github.com/SteloyBits?tab=repositories"> <em>here</em></a></ul>
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: <a href="mailto:steloybits@vivaldi.net">steloybit's mail</a></li>
+      <li>Twitter: <a href="https://mobile.twitter.com/steloybits">@steloybits on Twitter</a></li>
+    </ul>
 <!---
 SteloyBits/SteloyBits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
