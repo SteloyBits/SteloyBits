@@ -1,3 +1,6 @@
+<h2>AI Engineer</h2>
+<p>Experienced <em>AI Engineer</em> with a strong background in Python, R, Excel, and Tableau. Proficient in <em>Network Security</em> and implementation of machine learning algorithms and natural language processing concepts.</p>
+
 <h2>Expertise</h2>
 <p>Abdulsamad is a qualified IT Expert with 3 years experience in the domains of Software development, Data Science and System Administration and Security.</p>
 
