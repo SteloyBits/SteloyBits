@@ -1,5 +1,5 @@
 <h1>Data Scientist</h1>
-    <p>Experienced <em>Data Scientist</em> with a strong background in Python, R, Excel, and Tableau. Proficient in <em>Network Security</em> and implementation of machine learning algorithms and core concepts. Accomplished in using data to drive business decisions and collaborating with cross-functional teams to deliver actionable insights. Seeking a challenging role to utilize technical and analytical skills to develop innovative solutions.</p>
+    <p>Experienced <em>Data Scientist</em> with a strong background in Python, R, Excel, and Tableau. Proficient in <em>Data Engineering</em> and implementation of machine learning algorithms and core concepts. Accomplished in using data to drive business decisions and collaborating with cross-functional teams to deliver actionable insights. Seeking a challenging role to utilize technical and analytical skills to develop innovative solutions.</p>
     <h2>Skills</h2>
     <ul>
       <li>Programming Languages: Python, R</li>
